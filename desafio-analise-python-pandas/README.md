@@ -1,4 +1,5 @@
-# Geração Tech Unimed-BH - Ciência de Dados
-##### 126 hrs de conteúdo
-#### Retirado do site [DIO](https://web.dio.me/home):
->O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, você vai ter experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning. Após gerar a certificação de conclusão do bootcamp, a Unimed-BH pretende recrutar talentos para integrar seus times de tecnologia.
+# Análise de dados com Python e Pandas
+### DESCRIÇÃO
+Neste Labs será apresentada a biblioteca Pandas, uma biblioteca Python de código aberto para análise de dados. Ela dá ao Python a capacidade de trabalhar com dados do tipo planilha, permitindo carregar, manipular e combinar dados rapidamente, entre outras funções.
+
+###### Python | Data | Git
